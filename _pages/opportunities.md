@@ -55,7 +55,7 @@ If you are interested in working with **me**, please [email me](mailto:jed.kapla
 
 You'll then need to make a <a href="https://grad.ucalgary.ca/future-students/how-apply" target="_blank">formal application to the University of Calgary Graduate School</a>. 
 
-I welcome applications from prospective interns and graduate students of any gender, nationality, religion, and economic background. You can apply starting in your final year of bachelor studies, and at any level thereafter (holding a bachelor's only or also a master's degree).  Admission to the HKU graduate school is competitive, and good grades from an accredited undergraduate institution are required. If English is not your mother tongue, you'll need to demonstrate your language proficiency. To work with **me**, you'll generally need to be able to meet the following standards (either IELTS **or** TOEFL):
+I welcome applications from prospective interns and graduate students of any gender, nationality, religion, and economic background. You can apply starting in your final year of bachelor studies, and at any level thereafter (holding a bachelor's only or also a master's degree).  Admission to the University of Calgary graduate school is competitive, and good grades from an accredited undergraduate institution are required. If English is not your mother tongue, you'll need to demonstrate your language proficiency. To work with **me**, you'll generally need to be able to meet the following standards (either IELTS **or** TOEFL):
 
 <img src='../images/englishreqs.png' alt="English" title="Minimum English standards" width="500">
 

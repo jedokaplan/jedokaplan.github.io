@@ -11,7 +11,7 @@ Are you interested in understanding how climate and society changed in the past?
 
 If you are interested in any of the opportunities below, familiarize yourself with my research and get in touch with me [by email](mailto:jed.kaplan@ucalgary.ca). Include your CV and unofficial transcripts and a brief explanation of your research interests. I am open to inquires from prospective applicants from a variety of backgrounds, including geoscience, geography, archaeology, etc., but can only consider students whose research interests align with my own. Get in touch as early as possible: For Canadian applicants and permanent residents, note that NSERC funding applications for graduate scholarships have to be submitted in the autumn of the year before you plan to start your studies.
 
-**Please note, due to the high number of applications received, only shortlisted candidates will be contacted.**
+**NB due to the high number of applications received only shortlisted candidates will be contacted.**
 
 ## <span style="color:red">New</span> January 2025
 ### Research internships

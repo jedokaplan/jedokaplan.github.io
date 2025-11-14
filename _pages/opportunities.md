@@ -13,7 +13,7 @@ If you are interested in any of the opportunities below, familiarize yourself wi
 
 **NB due to the high number of applications received only shortlisted candidates will be contacted.**
 
-## <span style="color:red">New</span> January 2025
+## <span style="color:red">New</span> November 2025
 ### Research internships
 Please [email me](mailto:jed.kaplan@ucalgary.ca) me the following documents, **combined into a single PDF file**:
   * a one page cover letter explaining why you would like to do an internship and what interests you about working with me
@@ -25,7 +25,7 @@ In your email, please indicate the dates you are available and the preferred dur
 
 *Current undergraduate students looking for an off-term or final year research experience are particularly encouraged to apply.*
 
-Review of applications will commence on **1 January 2025** and continue until positions are filled.
+Review of applications will commence on **1 December 2025** and continue until positions are filled.
 
 ### Graduate scholarships
 **Graduate scholarship (MSc or PhD)** in simulating large scale interactions between forests, peatlands, and wildfires in the boreal forests of Eastern Canada. A background in forestry, geography, earth/environmental sciences, or a related field and an interest in paleoenvironmental reconstruction is desired but all qualified candidates will be considered. **For more information and instructions on how to apply, [contact me](mailto:jed.kaplan@ucalgary.ca) by email**.
@@ -45,7 +45,7 @@ I am currently searching for a talented, independent, ambitious early stage rese
 
 ## Applying for postgraduate study (graduate school)
 
-The University of Calgary Graduate School accepts applications from prospective master's and Ph.D. students every year. For admission in 2025, the next deadline is _15 January 2025_. For details on the application process, click for <a href="https://grad.ucalgary.ca/future-students/explore-programs/geoscience-msc-thesis" target="_blank">M.Sc.</a> or <a href="https://grad.ucalgary.ca/future-students/explore-programs/geoscience-phd" target="_blank">Ph.D.</a> studies.
+The University of Calgary Graduate School accepts applications from prospective master's and Ph.D. students every year. For admission in 2026, the next deadline is _15 January 2026_. For details on the application process, click for <a href="https://grad.ucalgary.ca/future-students/explore-programs/geoscience-msc-thesis" target="_blank">M.Sc.</a> or <a href="https://grad.ucalgary.ca/future-students/explore-programs/geoscience-phd" target="_blank">Ph.D.</a> studies.
 
 If you are interested in working with **me**, please [email me](mailto:jed.kaplan@ucalgary.ca) the following documents:
   * a one page statement of **how your research interests relate to my projects and publications**

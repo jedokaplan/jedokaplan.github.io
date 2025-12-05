@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 ## <span style="color:red">New</span> December 2025
-### Two fully-funded Ph.D. positions in modeling wildfire in the Canadian boreal forest
-[Click here for details](./WFRI-PhD "PhD jobs")!
+### Two fully-funded Ph.D. positions on modeling wildfire in the Canadian boreal forest
+[Click here for details](../WFRI-PhD "PhD jobs")!
 
 Are you interested in understanding how climate and society changed in the past? Do you have a background in earth sciences, geography, archaeology, or anthropology? Would you like to work with computers, develop your own models and other computer programs? Can you assist with field-based experiential learning for undergraduates? I currently have **short-term research internships** (2-12 months) and **full graduate scholarships** (research master's and Ph.D.) for outstanding candidates from anywhere in the world.
 

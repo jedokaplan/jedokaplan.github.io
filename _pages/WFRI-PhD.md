@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "Work with me!"
-permalink: /opportunities/WFRI-PhD/
-author_profile: true
-redirect_from:
-  - /WFRI
+title: "PhD1"
+excerpt: "PhD1 modeling"
+collection: opportunities
 ---
 
 **PhD studentship in modeling boreal forest fire regime and ecosystem

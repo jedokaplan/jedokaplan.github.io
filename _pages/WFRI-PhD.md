@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Work with me!"
-permalink: /WFRI-PhD/
+permalink: /opportunities/WFRI-PhD/
 author_profile: true
 redirect_from:
   - /WFRI

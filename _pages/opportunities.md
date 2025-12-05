@@ -7,13 +7,16 @@ redirect_from:
   - /jobs
 ---
 
+## <span style="color:red">New</span> December 2025
+### Two fully-funded Ph.D. positions in modeling wildfire in the Canadian boreal forest
+[Click here for details](./WFRI-PhD "PhD jobs")!
+
 Are you interested in understanding how climate and society changed in the past? Do you have a background in earth sciences, geography, archaeology, or anthropology? Would you like to work with computers, develop your own models and other computer programs? Can you assist with field-based experiential learning for undergraduates? I currently have **short-term research internships** (2-12 months) and **full graduate scholarships** (research master's and Ph.D.) for outstanding candidates from anywhere in the world.
 
 If you are interested in any of the opportunities below, familiarize yourself with my research and get in touch with me [by email](mailto:jed.kaplan@ucalgary.ca). Include your CV and unofficial transcripts and a brief explanation of your research interests. I am open to inquires from prospective applicants from a variety of backgrounds, including geoscience, geography, archaeology, etc., but can only consider students whose research interests align with my own. Get in touch as early as possible: For Canadian applicants and permanent residents, note that NSERC funding applications for graduate scholarships have to be submitted in the autumn of the year before you plan to start your studies.
 
 **NB due to the high number of applications received only shortlisted candidates will be contacted.**
 
-## <span style="color:red">New</span> November 2025
 ### Research internships
 Please [email me](mailto:jed.kaplan@ucalgary.ca) me the following documents, **combined into a single PDF file**:
   * a one page cover letter explaining why you would like to do an internship and what interests you about working with me

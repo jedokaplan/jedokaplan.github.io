@@ -1,12 +1,27 @@
 ---
 layout: archive
-title: "PhD1"
-excerpt: "PhD1 modeling"
-collection: opportunities
+title: "Work with me!"
+permalink: /WFRI-PhD/
+author_profile: true
+redirect_from:
+  - /WFRI
 ---
+
+[click on this link](#my-multi-word-header)
+
+### My Multi Word Header
+
 
 **PhD studentship in modeling boreal forest fire regime and ecosystem
 resilience under climate change in eastern Canada**
+
+**PhD studentship in modeling peatland wildfires in the boreal forest of
+eastern Canada**
+
+**PhD studentship in modeling boreal forest fire regime and ecosystem
+resilience under climate change in eastern Canada**
+
+
 
 *Position summary*
 

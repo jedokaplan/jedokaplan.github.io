@@ -3,8 +3,6 @@ layout: archive
 title: "Work with me!"
 permalink: /opportunities/
 author_profile: true
-redirect_from:
-  - /jobs
 ---
 
 ## <span style="color:red">New</span> December 2025

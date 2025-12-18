@@ -38,7 +38,7 @@ Education
 * **2001** – Ph.D., Plant Ecology, Lund University, Lund, Sweden
 Ph.D. Thesis: *Geophysical Applications of Vegetation Modeling*. Supervisor: Prof. I. Colin Prentice
 * **1994** – B.A., Geography and Earth Sciences with honors, Dartmouth College, Hanover, NH, USA
-Honors Thesis: *Defining the Little Ice Age: Dendrochronology of Alpine Larch in the Purcell Mountains of British Columbia*. Supervisor: Prof. Laura Conkey ---
+Honors Thesis: *Defining the Little Ice Age: Dendrochronology of Alpine Larch in the Purcell Mountains of British Columbia*. Supervisor: Prof. Laura Conkey
 
 
 Work experience
@@ -70,7 +70,7 @@ Membership in the scientific steering committee of national and international re
 Other service and Leadership in the Scientific and Educational Community
 ======
 
-* Editor-in-Chief <a href="https://www.journals.elsevier.com/global-and-planetary-change" target="_blank">*Global and Planetary Change*</a>
+* **2019-2025** Editor-in-Chief <a href="https://www.journals.elsevier.com/global-and-planetary-change" target="_blank">*Global and Planetary Change*</a>
 * Manuscript reviewing
     - I am a regular peer reviewer of research articles submitted to *Nature*, *Science*, *PNAS*, *Global Change Biology*, *Global Biogeochemical Cycles*, *Environmental Research Letters*, *Quaternary Science Reviews*, *Ecology*, *Geophysical Research Letters*, *Global and Planetary Change*, *Earth Interactions*, *Climate of the Past*, and many other internationally recognized journals. 
 

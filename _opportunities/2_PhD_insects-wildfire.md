@@ -5,10 +5,9 @@ excerpt: "PhD studentship in modeling boreal forest fire regime and ecosystem re
 collection: jobs
 ---
 
-**PhD studentship in modeling boreal forest fire regime and ecosystem
-resilience under climate change in eastern Canada**
+## Ph.D. studentship in modeling boreal forest fire regime and ecosystem resilience under climate change in eastern Canada
 
-*Position summary*
+**Position summary**
 
 The high latitudes of the Northern Hemisphere are among the fastest
 warming regions of the world. The boreal forests of eastern Canada are
@@ -30,7 +29,7 @@ University of Calgary is seeking a motivated and skilled Ph.D. candidate
 to join our multidisciplinary research team ideally in the first half of
 2026.
 
-*Research Focus*
+**Research Focus**
 
 The Ph.D. student will lead research on the development and application
 of a computer-based vegetation model to investigate
@@ -41,7 +40,7 @@ assembly and management, experimental design, and analysis and
 visualization of model outputs. The work will be desk-based but may
 include trips to project field sites in the boreal forests of Ontario.
 
-*Minimum qualifications*
+**Minimum qualifications**
 
 - Commitment to learning computer simulation and programming in a
   high-level language (R, Python, C++, Fortran, etc.).
@@ -50,7 +49,7 @@ include trips to project field sites in the boreal forests of Ontario.
 
 - Fluency in English listening, reading, and writing.
 
-*Preferred qualifications*
+**Preferred qualifications**
 
 - A Master of Science in a STEM field or significant research experience
   leading to authorship on a publication.
@@ -63,7 +62,7 @@ include trips to project field sites in the boreal forests of Ontario.
 - Demonstrated experience of research work both independently and in a
   team.
 
-*Location and start date*
+**Location and start date**
 
 This position requires full-time, in-person presence at the University
 of Calgary main campus, in Calgary, Alberta, Canada. Secondments with
@@ -72,14 +71,14 @@ project partners elsewhere in Canada may be part of the work.
 The starting date for this position can be as early as 1 January 2026
 and will be subject to arrangement with the selected candidate.
 
-*Funding and support*
+**Funding and support**
 
 This position includes a minimum annual stipend of CAD \$34,500 that may
 be augmented with scholarships, and additional support for travel,
 conferences, and other research expenses. Support is for a period of 3
 years, contingent on satisfactory progress and funding.
 
-*Application instructions*
+**Application instructions**
 
 Applicants should submit the following materials as **a single PDF
 file** [at this link](https://tally.so/r/RGG8EQ){:target="_blank"}:
@@ -95,8 +94,13 @@ file** [at this link](https://tally.so/r/RGG8EQ){:target="_blank"}:
 - Scans of your IELTS (Academic), TOEFL, or equivalent language test
   results, *if English is not your mother tongue*.
 
-*Assessment criteria and other qualifications\*
+**Assessment criteria and other qualifications**
+
 Consideration will be given to good collaborative skills, drive and
 independence, and how the applicant's experience and skills complement
-and strengthen ongoing research within the department, and how they
+and strengthen ongoing research within the research group, and how they
 stand to contribute to its future development.
+
+Review of applications will commence on **1 January 2026** and continue until the position is filled.
+
+*Please note that due to the high number of applications received only shortlisted candidates will be contacted.*

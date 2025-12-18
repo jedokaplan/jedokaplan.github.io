@@ -18,4 +18,6 @@ M.Sc. students working with me will receive a minimum annual stipend of CAD \$34
 
 **Submit an expression of interest [at this link](https://tally.so/r/eqDQ9E){:target="_blank"}.**
 
+Review of applications will commence on **1 January 2026** and continue until positions are filled.
+
 *Please note that due to the high number of applications received only shortlisted candidates will be contacted.*

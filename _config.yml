@@ -221,6 +221,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  opportunities:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/

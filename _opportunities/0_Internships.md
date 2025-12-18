@@ -23,4 +23,3 @@ Internships are open for current undergraduates or recent graduates with a bache
 *Please note that due to the high number of applications received only shortlisted candidates will be contacted.*
 
 Review of applications will commence on **1 January 2026** and continue until positions are filled.
-

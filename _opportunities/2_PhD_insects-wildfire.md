@@ -82,7 +82,7 @@ years, contingent on satisfactory progress and funding.
 *Application instructions*
 
 Applicants should submit the following materials as **a single PDF
-file** at this link: <https://tally.so/r/RGG8EQ>
+file** [at this link](https://tally.so/r/RGG8EQ){:target="_blank"}:
 
 - A one-page statement describing your research interests and
   experience, and career goals.

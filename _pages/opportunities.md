@@ -11,7 +11,8 @@ Get in touch as early as possible: For Canadian applicants and permanent residen
 
 **NB due to the high number of applications received only shortlisted candidates will be contacted.**
 
-# Current openings in my research group (December 2025)
+# Current openings in my research group
+Last update: December 2025
 
 {% include base_path %}
 
@@ -27,7 +28,7 @@ If you are interested in working with me, please select from the [opportunities 
 
 You'll then need to make a <a href="https://grad.ucalgary.ca/future-students/how-apply" target="_blank">formal application to the University of Calgary Graduate School</a>. 
 
-You can apply starting in your final year of bachelor studies, and at any level thereafter (holding a bachelor's only or also a master's degree).  Admission to the University of Calgary graduate school is competitive, and good grades from an accredited undergraduate institution are required. If English is not your mother tongue, you'll need to demonstrate your language proficiency. **To work with me**, you'll generally need to be able to meet the following standards (either IELTS **or** TOEFL):
+You can apply starting in your final year of bachelor studies, and at any level thereafter (holding a bachelors only or also a master's degree).  Admission to the University of Calgary graduate school is competitive, and good grades from an accredited undergraduate institution are required. If English is not your mother tongue, you'll need to demonstrate your language proficiency. **To work with me**, you'll generally need to be able to meet the following standards (either IELTS **or** TOEFL):
 
 <img src='../../images/englishreqs.png' alt="English" title="Minimum English standards" width="500">
 

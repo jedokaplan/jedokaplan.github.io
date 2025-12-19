@@ -27,7 +27,7 @@ collection: jobs
 
 ### Position summary
 
-The Hong Kong Research Grants Council supports the Area of Excellence project *Quantitative History of China: Historical Roots of Recent Success and Future Development*. In the framework of this five-year multidisciplinary project, I am searching for a postdoctoral fellow to lead a sub-project on aspects of human-environment interactions in China over the Holocene.
+The Hong Kong Research Grants Council supports the Area of Excellence project *Quantitative History of China: Historical Roots of Recent Success and Future Development*. In the framework of this five-year multidisciplinary project, I am searching for a postdoctoral fellow to lead a sub-project on aspects of the history of climate and society in China over the Holocene.
 
 ### Research Focus
 

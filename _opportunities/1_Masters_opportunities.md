@@ -1,13 +1,15 @@
 ---
 layout: archive
 title: "M.Sc. opportunities"
-excerpt: "Opportunities to earn a master's degree in earth system modeling"
+excerpt: "Opportunities to earn a master's degree in modeling earth system processes over history."
 collection: jobs
 ---
 
 Thank you for your interest in studying with me! I am open to inquires from prospective applicants from a very wide range of backgrounds, including geoscience, environmental science, geography, archaeology, computer science, biology, chemistry, physics, math, etc. Candidates whose coursework and/or research or work experiences aligns with my projects and goals will be prioritized. Applications are welcome from candidates of any nationality.
 
-M.Sc. students working with me will receive a minimum annual stipend of CAD \$34,500 that may be augmented with scholarships, and additional support for travel, conferences, and other research expenses. Support is for a period of two years, contingent on satisfactory progress and funding.
+I am particularly interested in students who would like to work on projects on the reconstruction of past human-environment interactions using models. Topics include modeling ecosystem dynamics and biogeography, land use, Indigenous land management, wildfires, and Pleistocene megafauna popuations. The work will be mainly computer-based but could include visits to key field sites, or work as a field assistant on related projects.
+
+M.Sc. students working with me will receive a minimum annual stipend of CAD $34,500 that may be augmented with scholarships, and will include additional support for travel, conferences, and other research expenses. Support is for a period of two years, contingent on satisfactory progress and funding.
 
 **To apply**, familiarize yourself with my work and gather the following documents:
 

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Postdoctoral fellowship in the environmental and/or economic history of China over the Holocene"
-excerpt: "Postdoctoral fellowship in the environmental and/or economic history of China over the Holocene"
+excerpt: "Understanding Human-environment interactions in East Asia over the past 11,700 years"
 collection: jobs
 ---
 
@@ -24,9 +24,6 @@ collection: jobs
         padding-bottom: 1em;
     }
 </style>
-
-
-<!-- ## Postdoctoral fellowship in the environmental and/or economic history of China over the Holocene -->
 
 ### Position summary
 

@@ -307,6 +307,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+#   - jekyll-scholar
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -317,6 +318,11 @@ whitelist:
   - jekyll-redirect-from
   - jemoji
 
+# scholar:
+#   style: apa
+#   locale: en
+#   source: ./_bibliography
+#   bibliography: references.bib
 
 # Archives
 #  Type

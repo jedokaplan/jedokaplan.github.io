@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Postdoctoral fellowship in the environment, archaeology, or economic history of China over the Holocene"
-excerpt: "Understanding Human-environment interactions in East Asia over the past 11,700 years"
+excerpt: "Understanding Human-environment interactions in East Asia over the past 11,700 years. <font color=red>Apply by 15 January 2026.</font>"
 collection: jobs
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Ph.D. studentship: peatlands and wildfire"
-excerpt: "PhD studentship in modeling peatland wildfires in the boreal forest of eastern Canada"
+excerpt: "PhD studentship in modeling peatland wildfires in the boreal forest of eastern Canada. <font color=red>Apply by 15 January 2026.</font>"
 collection: jobs
 ---
 

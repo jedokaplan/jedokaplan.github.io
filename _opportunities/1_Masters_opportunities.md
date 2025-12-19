@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "M.Sc. opportunities"
-excerpt: "Opportunities to earn a master's degree in modeling earth system processes over history."
+excerpt: "Opportunities to earn a master's degree in modeling earth system processes over history. <font color=red>Apply by 15 January 2026.</font>"
 collection: jobs
 ---
 

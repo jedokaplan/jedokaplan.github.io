@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Ph.D. studentship: insects and wildfire"
-excerpt: "PhD studentship in modeling boreal forest fire regime and ecosystem resilience under climate change in eastern Canada"
+excerpt: "PhD studentship in modeling boreal forest fire regime and ecosystem resilience under climate change in eastern Canada. <font color=red>Apply by 15 January 2026.</font>"
 collection: jobs
 ---
 

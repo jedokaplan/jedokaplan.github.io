@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Short-term internships"
-excerpt: "3-6 month paid research internships for current undergraduates and recent graduates"
+excerpt: "3-6 month paid research internships for current undergraduates and recent graduates. <font color=red>Apply by 5 January 2026.</font>"
 collection: jobs
 ---
 

@@ -27,7 +27,7 @@ collection: jobs
 
 ### Position summary
 
-In the context of the Canada Impact+ Research Training Awards (CIRTA), I am searching for a prospective postdoctoral fellow currently residing outside of Canada and without any institutional tie to Canada to present as a potential nominee for a CIRTA postdoc. Funding from CIRTA will be complemented with infrastructure funds from the Canadian Foundation for Innovation and the Government of Alberta to design, purchase, and deploy a state-of-the art UAV-LiDAR based remote sensing platform. The postdoctoral fellow will be expected to lead this process of equipment acquisition and direct a series of field campaigns, aided by undergraduate and/or graduate student assistants.
+In the context of the [Canada Impact+ Research Training Awards (CIRTA)](https://nserc-crsng.canada.ca/en/canada-impact-research-training-awards-qa){:target="_blank"}, I am searching for a prospective postdoctoral fellow currently residing outside of Canada and without any institutional tie to Canada to present as a potential nominee for a CIRTA postdoc. Funding from CIRTA will be complemented with infrastructure funds from the Canadian Foundation for Innovation and the Government of Alberta to design, purchase, and deploy a state-of-the art UAV-LiDAR based remote sensing platform. The postdoctoral fellow will be expected to lead this process of equipment acquisition and direct a series of field campaigns, aided by undergraduate and/or graduate student assistants.
  
 ### Research Focus
 
@@ -72,7 +72,7 @@ This position includes a competitive salary based on skills and experience that 
 ### Application instructions
 
 Applicants should submit the following materials as **a single PDF
-file** [at this link](https://tally.so/r/A7K2WW){:target="_blank"}:
+file** [at this link](https://tally.so/r/Y5ReBJ){:target="_blank"}:
 
 - A one-page statement describing your research interests and
   experience, and career goals.

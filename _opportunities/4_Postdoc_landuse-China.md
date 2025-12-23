@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Postdoctoral fellowship in the environment, archaeology, or economic history of China over the Holocene"
-excerpt: "Understanding Human-environment interactions in East Asia over the past 11,700 years. <font color=red>Apply by 15 January 2026.</font>"
+title: "Postdoctoral fellowship in the quantitative history of China over the Holocene"
+excerpt: "Understanding Human-environment interactions in East Asia over the past 11,700 years through environmental, archaeological, and economic history. <font color=red>Apply by 15 January 2026.</font>"
 collection: jobs
 ---
 
@@ -65,8 +65,7 @@ This position includes a competitive salary based on skills and experience that 
 
 ### Application instructions
 
-Applicants should submit the following materials as **a single PDF
-file** [at this link](https://tally.so/r/A7K2WW){:target="_blank"}:
+Applicants should submit the following materials as **a single PDF file** [at this link](https://tally.so/r/A7K2WW){:target="_blank"}:
 
 - A one-page statement describing your research interests and
   experience, and career goals.
@@ -75,17 +74,13 @@ file** [at this link](https://tally.so/r/A7K2WW){:target="_blank"}:
 
 - A link to download an example of your research work, e.g., journal article, book chapter, thesis, etc.
 
-- Scans of your IELTS (Academic), TOEFL, or equivalent language test
-  results, *if English is not your mother tongue*.
+- Scans of your IELTS (Academic), TOEFL, or equivalent language test results, *if English is not your mother tongue*.
 
 *Informal inquiries by email in advance of applying are welcome.*
 
 ### Assessment criteria and other qualifications
 
-Consideration will be given to good collaborative skills, drive and
-independence, and how the applicant's experience and skills complement
-and strengthen ongoing research within the research group, and how they
-stand to contribute to its future development.
+Consideration will be given to good collaborative skills, drive and independence, and how the applicant's experience and skills complement and strengthen ongoing research within the research group, and how they stand to contribute to its future development.
 
 Review of applications will commence on **15 January 2026** and continue until the position is filled.
 

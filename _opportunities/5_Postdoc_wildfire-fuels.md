@@ -61,9 +61,9 @@ For further details or to discuss your interest before applying, please [email m
 
 ### Location and start date
 
-This position requires full-time, in-person presence at the University of Calgary main campus, in Calgary, Alberta, Canada. Secondments with project partners elsewhere in Canada may be part of the work.
+This position requires full-time, in-person presence at the University of Calgary main campus, in Calgary, Alberta, Canada. Secondments with project partners elsewhere in North America may be part of the work.
 
-The starting date for this position will be during 2026 and will be subject to arrangement with the selected candidate.
+The starting date for this position will be during 2026 and will be subject to funding availability and arrangement with the selected candidate.
 
 ### Funding and support
 
@@ -71,8 +71,7 @@ This position includes a competitive salary based on skills and experience that 
 
 ### Application instructions
 
-Applicants should submit the following materials as **a single PDF
-file** [at this link](https://tally.so/r/Y5ReBJ){:target="_blank"}:
+Applicants should submit the following materials as **a single PDF file** [at this link](https://tally.so/r/Y5ReBJ){:target="_blank"}:
 
 - A one-page statement describing your research interests and
   experience, and career goals.
@@ -81,8 +80,7 @@ file** [at this link](https://tally.so/r/Y5ReBJ){:target="_blank"}:
 
 - A link to download an example of your research work, e.g., journal article, book chapter, thesis, etc.
 
-- Scans of your IELTS (Academic), TOEFL, or equivalent language test
-  results, *if English is not your mother tongue*.
+- Scans of your IELTS (Academic), TOEFL, or equivalent language test results, *if English is not your mother tongue*.
 
 *Informal inquiries by email in advance of applying are welcome.*
 

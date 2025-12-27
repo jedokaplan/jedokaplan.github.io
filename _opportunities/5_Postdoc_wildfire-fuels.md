@@ -69,7 +69,7 @@ The starting date for this position will be during 2026 and will be subject to f
 
 This position includes a competitive salary based on skills and experience that may be augmented with additional fellowships, and includes  support for travel, conferences, and other research expenses. The successful candidate will receive initial funding for a period of 2 years, that may be renewed contingent on satisfactory progress and funding.
 
-### Application instructions
+### <font color=red>How to apply</font>
 
 Applicants should submit the following materials as **a single PDF file** [at this link](https://tally.so/r/Y5ReBJ){:target="_blank"}:
 

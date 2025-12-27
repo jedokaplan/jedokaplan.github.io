@@ -31,7 +31,7 @@ The Hong Kong Research Grants Council supports the Area of Excellence project *Q
 
 ### Research Focus
 
-The postdoctoral fellow will lead a project under the broad theme of understanding how prehistoric and historic land use change in China over the Holocene epoch (last 11,700 years) affected local, regional, and global environments. This work will follow on similar regional  projects undertaken for West Africa (Kay and Kaplan, 2015; Kay et al., 2019), Greece (Hughes et al., 2022), the Philippines (Findley et al., 2022; Findley et al., in prep), and other aspects of my past and ongoing research that focuses on Europe and North America. The postdoctoral fellow will be encouraged to develop their own research project within the overarching goals of the research program. Specific areas of focus could include paleoenvironmental reconstruction, land use mapping, economic history, human impacts on fire, air quality effects on human health, and related topics.
+The postdoctoral fellow will lead a project under the broad theme of understanding how prehistoric and historic land use change in China over the Holocene epoch (last 11,700 years) affected local, regional, and global environments. This work will follow on similar regional  projects undertaken for West Africa (Kay and Kaplan, 2015; Kay et al., 2019), Greece (Hughes et al., 2022), the Philippines (Findley et al., 2022; Findley et al., in prep), and other aspects of my past and ongoing research that focuses on Europe and North America. The postdoctoral fellow will be encouraged to develop their own research project within the overarching goals of the research program. Specific areas of focus could include paleoenvironmental reconstruction, archaeological science, land use mapping, economic history, human impacts on fire, air quality effects on human health, and related topics.
 
 For further details or to discuss your interest before applying, please [email me](mailto:jed.kaplan@ucalgary.ca).
 
@@ -63,7 +63,7 @@ The starting date for this position can be as early as 1 March 2026 and will be 
 
 This position includes a competitive salary based on skills and experience that may be augmented with additional fellowships, and includes  support for travel, conferences, and other research expenses. Support is for a period of 3 years, contingent on satisfactory progress and funding.
 
-### Application instructions
+### <font color=red>How to apply</font>
 
 Applicants should submit the following materials as **a single PDF file** [at this link](https://tally.so/r/A7K2WW){:target="_blank"}:
 

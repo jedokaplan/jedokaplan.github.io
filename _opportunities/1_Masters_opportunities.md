@@ -11,7 +11,9 @@ I am particularly interested in students who would like to work on projects on t
 
 M.Sc. students working with me will receive a minimum annual stipend of CAD $34,500 that may be augmented with scholarships, and will include additional support for travel, conferences, and other research expenses. Support is for a period of two years, contingent on satisfactory progress and funding.
 
-**To apply**, familiarize yourself with my work and gather the following documents:
+### <font color=red>How to apply</font>
+
+Familiarize yourself with my work and gather the following documents:
 
   * a one page statement of *how your research interests relate to my projects and publications*
   * a short CV that includes a list of your relevant research skills and background

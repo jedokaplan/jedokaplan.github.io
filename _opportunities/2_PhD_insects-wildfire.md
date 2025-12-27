@@ -13,7 +13,7 @@ The high latitudes of the Northern Hemisphere are among the fastest warming regi
 
 To better understand the broad scale effects of vegetation and fire dynamics, we aim to conduct simulation modelling of forest disturbance dynamics and to evaluate the efficacy of management actions in minimizing wildfire risk.
 
-This project is funded through Natural Resources Canada's Wildfire Resilient Futures Initiative and lead by the Ontario Forest Research Institute, part of the Ontario Ministry of Natural Resources. As part of this project, the Department of Earth, Energy, and Environment at the University of Calgary is seeking a motivated and skilled Ph.D. candidate to join our multidisciplinary research team ideally in the first half of 2026.
+This project is funded through Natural Resources Canada's Wildfire Resilient Futures Initiative and led by the Ontario Forest Research Institute, part of the Ontario Ministry of Natural Resources. As part of this project, the Department of Earth, Energy, and Environment at the University of Calgary is seeking a motivated and skilled Ph.D. candidate to join our multidisciplinary research team ideally in the first half of 2026.
 
 ### Research Focus
 

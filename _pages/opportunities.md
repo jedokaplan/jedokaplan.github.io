@@ -12,11 +12,7 @@ Get in touch as early as possible: For Canadian applicants and permanent residen
 **For all positions, due to the high number of applications received only shortlisted candidates will be contacted.**
 
 # Current openings in my research group
-<<<<<<< HEAD
 Last update: 26 December 2025
-=======
-Last update: December 2025
->>>>>>> ba5a1e32794e50a539c112a72001f63e6d8ce0c5
 
 {% include base_path %}
 

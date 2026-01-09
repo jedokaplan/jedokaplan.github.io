@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Short-term internships"
-excerpt: "3-6 month paid research internships for current undergraduates and recent graduates. <font color=red>Apply by 5 January 2026.</font>"
+excerpt: "3-6 month paid research internships for current undergraduates and recent graduates."
 collection: jobs
 ---
 
@@ -20,6 +20,8 @@ Internships are open for current undergraduates or recent graduates with a bache
 
 **Submit an expression of interest [at this link](https://tally.so/r/b59jN2){:target="_blank"}.**
 
-Review of applications will commence on **1 January 2026** and continue until positions are filled.
+<!-- Review of applications will commence on **1 January 2026** and continue until positions are filled. -->
+
+<font color=red>I am currently considering interns for September 2026 and later.</font>
 
 *Please note that due to the high number of applications received only shortlisted candidates will be contacted.*

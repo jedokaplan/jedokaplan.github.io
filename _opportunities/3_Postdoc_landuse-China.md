@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Postdoctoral fellowship in the quantitative history of China over the Holocene"
-excerpt: "Understanding Human-environment interactions in East Asia over the past 11,700 years through environmental, archaeological, and economic history. <font color=red>Apply by 15 January 2026.</font>"
+excerpt: "Understanding Human-environment interactions in East Asia over the past 11,700 years through environmental, archaeological, and economic history. <font color=red>Apply by 15 April 2026.</font>"
 collection: jobs
 ---
 
@@ -82,7 +82,7 @@ Applicants should submit the following materials as **a single PDF file** [at th
 
 Consideration will be given to good collaborative skills, drive and independence, and how the applicant's experience and skills complement and strengthen ongoing research within the research group, and how they stand to contribute to its future development.
 
-Review of applications will commence on **15 January 2026** and continue until the position is filled.
+Review of applications will commence on **15 April 2026** and continue until the position is filled.
 
 *Please note that due to the high number of applications received only shortlisted candidates will be contacted.*
 

@@ -5,7 +5,7 @@ permalink: /grad-studies/
 author_profile: true
 ---
 
-The University of Calgary Graduate School accepts applications from prospective master's and Ph.D. students every year. For admission in 2026, the next deadline is _15 January 2026_. For details on the application process, click for <a href="https://grad.ucalgary.ca/future-students/explore-programs/geoscience-msc-thesis" target="_blank">M.Sc.</a> or <a href="https://grad.ucalgary.ca/future-students/explore-programs/geoscience-phd" target="_blank">Ph.D.</a> studies.
+The University of Calgary Graduate School accepts applications from prospective master's and Ph.D. students every year. For admission in 2027, the next formal deadline will not be until December, however I consider all applications on a rolling basis so the sooner you apply the better. For details on the application process, click for <a href="https://grad.ucalgary.ca/future-students/explore-programs/geoscience-msc-thesis" target="_blank">M.Sc.</a> or <a href="https://grad.ucalgary.ca/future-students/explore-programs/geoscience-phd" target="_blank">Ph.D.</a> studies.
 
 If you are interested in working with me, please from my current [opportunities](../opportunities) and follow the instructions to submit an expression of interest in the advertisement.
 
